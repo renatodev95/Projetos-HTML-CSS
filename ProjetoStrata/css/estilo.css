@@ -150,3 +150,8 @@ li{
     width: 50%;
     float: left;
 }
+
+footer{
+    line-height: 20px;
+    background: red;
+}
